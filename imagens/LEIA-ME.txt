@@ -1,0 +1,24 @@
+Imagens do portal
+=================
+Logo
+  senac.svg           logo oficial em cores (para fundo claro)
+  senac-negativo.svg  mesmo logo com letras brancas (barra azul-marinho e rodapé)
+
+Fotos da apresentação (provisórias)
+  As fotos abaixo são de OUTRAS escolas, com licença livre (Wikimedia Commons), usadas só como
+  ambientação. Os créditos aparecem no rodapé da apresentação. Para trocar por fotos da própria escola,
+  salve um JPG com o MESMO nome (paisagem 3:2, ideal 1280x853 px, até ~250 KB). Não é preciso mexer no código.
+  Ao trocar todas, apague a lista CREDITOS no script.js (ou deixe só as que continuarem).
+
+  rotina-materias.jpg     Caderno escolar - Santeri Viinamäki, CC BY-SA 4.0
+  rotina-comunicados.jpg  Planejamento com cadernos e lápis - Shixart1985, CC BY 2.0
+  rotina-horarios.jpg     Sala de aula da Chokai JHS - Douglas P Perkins, CC BY 3.0
+  rotina-professores.jpg  Sala de aula da Escola Técnica de Paulínia - Alebasi24, CC BY-SA 4.0
+  rotina-direcao.jpg      Corredor da Robert E. Bell School - Htetrasme, CC BY-SA 4.0
+  bem-estar.jpg           Biblioteca da Sias University - Gary Todd, CC0
+  apoio.jpg               Mesa de estudo - Governo das Ilhas Virgens Americanas, domínio público
+  entrar.jpg              Prova escrita em sala de aula - Alison Wood, CC BY 3.0
+
+  Se um arquivo faltar, aparece hero-placeholder.svg no lugar.
+  Use apenas fotos com autorização de uso de imagem (para menores, dos responsáveis) e ajuste o texto
+  alternativo (alt) no script.js para descrever a foto nova.
